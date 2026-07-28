@@ -1,0 +1,8 @@
+# Goのビルド成果物
+*.exe
+*.test
+*.out
+/bin/
+
+# macOS
+.DS_Store
